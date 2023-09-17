@@ -21,7 +21,6 @@ Other questions:
 Financial Data
 
 - [Download page](https://tea.texas.gov/finance-and-grants/state-funding/state-funding-reports-and-data/peims-financial-data-downloads)
-- [Data dictionary]()
   Academic Performance Data
 - [Download page](https://www.kaggle.com/datasets/9e3ce42f60ded3ba2a6dd890993493f2c4b284c5cfa035d711bd98fa3359924c?resource=download)
   Ethnicity
