@@ -7,7 +7,7 @@
 Research Question: Can we predict the effectiveness of a public school district based solely on the research data?
 
 H0 - The effectiveness of a public school district cannot be predicted.  
-H1 - The effectiveness of a public school district can be predicted with an accuracy and AUC score of more than 65%.
+H1 - The effectiveness of a public school district can be predicted with an RMSE score of no more than 0.5.
 
 Other questions:
 
@@ -42,6 +42,9 @@ Packages used:
 - scipy
 - scikit-learn
 - dtale
+- sweetviz
+- xgboost
+- shap
 
 ## Meta
 
