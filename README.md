@@ -6,10 +6,15 @@
 
 Research Question: Can we predict the effectiveness of a public school district based solely on the research data?
 
-H0 - The effectiveness of a public school district cannot be predicted.
+H0 - The effectiveness of a public school district cannot be predicted.  
 H1 - The effectiveness of a public school district can be predicted with an accuracy and AUC score of more than 65%.
 
 Other questions:
+
+- What are the top performing districts?
+- What financial profile is associated with top performing districts?
+- What are the most effective districts?
+- What financial profile is associated with the most effective districts?
 
 ### Data Sources
 
