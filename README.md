@@ -26,7 +26,7 @@ Academic Performance Data
 
 - [Download page](https://www.kaggle.com/datasets/9e3ce42f60ded3ba2a6dd890993493f2c4b284c5cfa035d711bd98fa3359924c?resource=download)
 
-  Ethnicity
+Ethnicity
 
 - [Download page](https://rptsvr1.tea.texas.gov/adhocrpt/adste.html)
 
