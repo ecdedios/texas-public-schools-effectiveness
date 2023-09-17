@@ -41,6 +41,7 @@ Packages used:
 - seaborn
 - scipy
 - scikit-learn
+- dtale
 
 ## Meta
 
